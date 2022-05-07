@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.726,=D:\install_programm\Prodject\NewPanelPageControl\AmPanelPageControl.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.664,D:\install_programm\Prodject\NewPanelPageControl\AmPanelPageControl_Reg.pas=D:\install_programm\Prodject\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.551,=E:\Red 10.3\My_mod\LIB_Am\Package_Controls\PanelPageControl\AmPanelTabs_Reg.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,=EsVclCore.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.541,=E:\Red 10.3\My_mod\LIB_Am\Package_Controls\PanelPageControl\AmPanelTabs.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.914,=E:\Red 10.3\Projects\Тест NewPc\NewPanelPageControl\AmPanelTabs.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.342,=EsVclComponents.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=E:\Red 10.3\Projects\Тест NewPc\NewPanelPageControl\AmPanelTabsCustom.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.571,=E:\Red 10.3\My_mod\LIB_Am\Package_Controls\PanelPageControl\AmPanelTabsCustom.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.401,=D:\install_programm\Prodject\Unit2.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.289,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.838,D:\install_programm\Prodject\PackagePanelTabs.dproj=D:\install_programm\Prodject\Package1.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.956,D:\install_programm\Prodject\NewPanelPageControl\PackagePanelTabs.dproj=D:\install_programm\Prodject\PackagePanelTabs.dproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.930,=E:\Red 10.3\Projects\Тест NewPc\NewPanelPageControl\AmPanelTabs_Reg.pas</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.362,=designide.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.325,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.204,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.870,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.151,=rtl.dcp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.513,=rtl.dcp</Transaction>
+  </Transactions>
+</BorlandProject>
